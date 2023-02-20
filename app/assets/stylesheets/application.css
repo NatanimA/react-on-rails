@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+.greetings-container {
+  width: 80%;
+  padding: 2rem;
+  border: 1px solid silver;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
